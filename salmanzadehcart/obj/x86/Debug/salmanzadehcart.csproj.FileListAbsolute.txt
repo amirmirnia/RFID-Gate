@@ -1,0 +1,15 @@
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\bin\x86\Debug\salmanzadehcart.exe.config
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\bin\x86\Debug\salmanzadehcart.exe
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\bin\x86\Debug\salmanzadehcart.pdb
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\bin\x86\Debug\MetroFramework.Design.dll
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\bin\x86\Debug\MetroFramework.dll
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\bin\x86\Debug\MetroFramework.Fonts.dll
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\obj\x86\Debug\salmanzadehcart.cart.resources
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\obj\x86\Debug\salmanzadehcart.insertcard.resources
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\obj\x86\Debug\salmanzadehcart.tableuser.resources
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\obj\x86\Debug\salmanzadehcart.Form1.resources
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\obj\x86\Debug\salmanzadehcart.insert.resources
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\obj\x86\Debug\salmanzadehcart.Properties.Resources.resources
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\obj\x86\Debug\salmanzadehcart.csproj.GenerateResource.Cache
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\obj\x86\Debug\salmanzadehcart.exe
+C:\Users\AHMIRNIA\Desktop\salmanzadehcart\salmanzadehcart\obj\x86\Debug\salmanzadehcart.pdb

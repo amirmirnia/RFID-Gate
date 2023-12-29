@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="salmanzadehclub" Class="DatasalmanzadehlinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=AHMIRNIA;Initial Catalog=salmanzadehclub;Integrated Security=True" SettingsObjectName="salmanzadehcart.Properties.Settings" SettingsPropertyName="salmanzadehclubConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Tableinsert" Member="Tableinserts">
+    <Type Name="Tableinsert">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="firstname" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="lastname" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="fame" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="typeclass" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Nickname" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="post" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Training" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="timeclass" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="job" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="active" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datalogin" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Weight" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="imge" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="hight" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Facilities" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Degree" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Blood" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Eye" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="note" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Records" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="num" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="card" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="mony" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

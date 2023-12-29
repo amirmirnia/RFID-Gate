@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Datasalmanzadehlinq">
+  <DataContextMoniker Name="/DatasalmanzadehlinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8450e663-a0f9-4eb9-877a-d32118102d80" absoluteBounds="1.5, 1, 2, 5.4246240234375">
+      <DataClassMoniker Name="/DatasalmanzadehlinqDataContext/Tableinsert" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b660d15a-7504-4c87-ae66-3b7e088e8e01" absoluteBounds="1.5150000000000001, 1.46, 1.9700000000000002, 4.8646240234375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
